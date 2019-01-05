@@ -1,0 +1,75 @@
+.goodsCollage {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background: none;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.goodsCard {
+  background-color: rgba(255, 240, 235, 1);
+  box-shadow: 0 0 0 2pt rgba(245, 61, 93, 0.2);
+  border-radius: 0.2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 2em;
+  margin-right: 2em;
+  margin-left: 2em;
+  text-align: center;
+}
+
+.goodsCardPic {
+  width: 15vw;
+  height: 15vw;
+  padding: 1em 1em;
+  background-color: rgba(	255, 162, 157, 0.6);
+  box-shadow: 0 0 0 7pt rgba(	255, 162, 157, 0.4);
+  border-radius: 0.2em;
+  margin-bottom: 0.4em;
+}
+
+.goodsTable {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  margin-left: 20em;
+}
+
+.goodsCardTitle {
+  font-family: "Playfair Display", sans-serif;
+  font-size: calc(2px + 2vmin);
+  margin-top: 1em;
+  margin-bottom: 0.1em;
+  text-align: center;
+}
+
+.goodsCardDisc {
+  font-family: "Playfair Display", sans-serif;
+  font-size: calc(4px + 1vmin);
+  margin-top: 0.3em;
+  text-align: center;
+}
+
+.goodsCardPrice {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 1.2em;
+  font-size: calc(2px + 1vmin);
+  text-align: center;
+}
+
+.goodsCardButton {
+  font-family: "Playfair Display", sans-serif;
+  padding: 0.6em 2em;
+  font-size: calc(8px + 1vmin);
+  text-align: center;
+  color: black;
+  border: 0.1em solid rgba(245, 61, 93, 0.4);
+  background-color: rgba(255, 162, 157, 0.2);
+  box-shadow: 0 0 0 2pt rgba(255, 162, 157, 0.4);
+  border-radius: 2em;
+}

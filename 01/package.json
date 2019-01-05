@@ -1,0 +1,7 @@
+{
+  "name": "FRONTEND",
+  "version": "1.0.0",
+  "dependencies": {
+    "ava": "latest"
+  }
+}

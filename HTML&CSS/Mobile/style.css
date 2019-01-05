@@ -1,0 +1,223 @@
+@font-face {
+  font-family: 'SegoeUI';
+  src: url(fonts/SegoeUI.ttf);
+}
+
+body {
+  width: 100%;
+  margin: auto;
+}
+
+.header {
+  width: 100%;
+  height: 100%;
+  background: url("bg1.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fitApp {
+  width: 5.5em;
+  height: 1.7em;
+}
+
+.menuWrap {
+  font-family: 'Oswald', sans-serif;
+  min-height: 5em;
+  display: flex;
+  align-items: center;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.firstMenuItem {
+  margin-right: auto;
+}
+
+.menuItem {
+  font-size: 1vw;
+  color: white;
+  margin-right: 1em;
+  margin-left: 2em;
+}
+
+.menuItemGet {
+  color: rgb(46, 204, 113);
+  background-color: white;
+  border-radius: 2em;
+  margin: 2em;
+  font-size: 1vw;
+  padding: 0.55em 2em;
+  text-align: center;
+  display: inline-block;
+}
+
+.appleLogoPic {
+  width: 5em;
+  height: 5em;
+  margin-top: 5em;
+  margin-bottom: 1em;
+  margin-left: 20%;
+  margin-right: 52%;
+}
+
+.colortext {
+  color: rgb(46, 204, 113);
+}
+
+.titleTextHelpYou {
+  font-family: SegoeUI, serif;
+  color: white;
+  font-size: 3vw;
+  margin-left: 20%;
+  margin-right: 40%;
+  margin-bottom: 1em;
+}
+
+.textHelpYou {
+  font-family: SegoeUI, sans-serif;
+  color: white;
+  font-size: 1vw;
+  margin-left: 20%;
+  margin-right: 40%;
+  margin-bottom: 5em;
+}
+
+.appleStorePic {
+  width: 9vw;
+  height: 3vw;
+  color: grey;
+  margin-left: 20%;
+  margin-bottom: 5em;
+}
+
+.googlePlayPic {
+  width: 9vw;
+  height: 3vw;
+  color: grey;
+  margin-left: 1%;
+  margin-bottom: 5em;
+}
+
+.statisticStep {
+  display: flex;
+  justify-content: center;
+  align-items: normal;
+  margin-bottom: 5em;
+}
+
+.statisticItemPic {
+  text-align: center;
+}
+
+.staticItemText {
+  text-align: left;
+}
+
+.statisticPhonePic {
+  width: 37vw;
+  height: 42vw;
+  margin-top: 5em;
+}
+
+.statisticTitleText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 2vw;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+.statisticText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 1vw;
+}
+
+.phoneFoodTitleText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 2vw;
+  text-align: center;
+}
+
+.phoneFoodText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 1vw;
+  text-align: center;
+}
+
+.phoneFoodPic {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+}
+
+.sangFoodStep {
+  display: flex;
+  justify-content: center;
+  align-items: normal;
+}
+
+.sangTitleText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 2vw;
+  text-align: left;
+}
+
+.sangText {
+  font-family: SegoeUI, sans-serif;
+  color: grey;
+  font-size: 1vw;
+}
+
+.sangPic {
+  width: 26vw;
+  height: 28vw;
+  align-items: center;
+}
+
+.sangPicClass {
+  text-align: center;
+}
+
+.floorStep {
+  width: 100%;
+  height: 100%;
+  background: url("floorBackground.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.floorTitleText {
+  font-family: SegoeUI, sans-serif;
+  color: white;
+  font-size: 3vw;
+  text-align: center;
+}
+
+.floorText {
+  font-family: SegoeUI, sans-serif;
+  color: white;
+  font-size: 1vw;
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.floorButton {
+  color: rgb(46, 204, 113);
+  background-color: white;
+  border-radius: 2em;
+  font-size: 1vw;
+  padding: 0.55em 2em;
+  margin-left: 41em;
+  margin-right: 41em;
+  text-align: center;
+}

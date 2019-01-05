@@ -1,0 +1,58 @@
+.feedbackForm {
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 1em;
+  background: url("../Images/photo-back.png");
+  background-size: 130% 110%;
+  box-shadow: 0 0 0 3pt rgba(245, 61, 93, 0.2);
+  border-radius: 0.2em;
+  margin-top: 10em;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 10em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.feedbackTitle {
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  font-size: calc(5px + 3vmin);
+}
+
+.feedbackText {
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  font-size: calc(3px + 2vmin);
+  margin-bottom: 0.5em;
+}
+
+.feedbackInput {
+  font-family: "Playfair Display", sans-serif;
+  width: 28em;
+  height: 4.1em;
+  border: 0.2em solid rgba(245, 61, 93, 0.7);
+  box-shadow: 0 0 0 3pt rgba(245, 61, 93, 0.2);
+  background-color: rgba(255, 240, 235, 1);
+  border-radius: 1em;
+  box-sizing: border-box;
+  margin-bottom: 0.5em;
+}
+
+.feedbackButton {
+  font-family: "Playfair Display", sans-serif;
+  width: 40%;
+  height: 10%;
+  padding: 0.8em;
+  margin-right: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: calc(8px + 1vmin);
+  text-align: center;
+  border: 0.2em solid rgba(245, 61, 93, 0.7);
+  box-shadow: 0 0 0 3pt rgba(245, 61, 93, 0.2);
+  background-color: rgba(255, 232, 216, 0.7);
+  border-radius: 2em;
+}

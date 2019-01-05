@@ -1,0 +1,83 @@
+/* Это комментарий CSS */
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background: url("wood.jpg") fixed;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.mainPic {
+  width: 1000px;
+  margin: 0 auto;
+  padding-right: 50px;
+}
+
+.stepsPic {
+  border: 4px solid #7c3d2b;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.articleList {
+  line-height: 1.5;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.article {
+  line-height: 1.5;
+  text-align: center;
+  background: rgba(221, 185, 173, 0.8);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bigTitle {
+  color: #632615;
+  padding-top: 50px;
+}
+
+.smallTitle {
+  color: #632615;
+}
+
+.author {
+  padding-bottom: 40px;
+  color: #7c3d2b;
+}
+
+.articleText {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.articleTable {
+  margin: 0 auto;
+  background: rgba(221, 185, 173, 0.8);
+}
+
+.quotation {
+  color: #7c3d2b;
+}
+
+.link {
+  color: rgb(61, 63, 61);
+}
+
+.writeMessage {
+  line-height: 1.5;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+
+#footer {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background: rgba(112, 41, 17, 0.8);
+  color: rgb(255, 255, 255);
+  width: 1000px;
+}
