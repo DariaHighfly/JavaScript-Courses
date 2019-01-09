@@ -18,6 +18,7 @@ export function rle(input) {
   let counter = 0;
   let str = '';
 
+
   for (let i = 0; i !== input.length; ++i) {
     if (input[i] !== letter) {
       str += input[i - 1];
@@ -36,3 +37,7 @@ export function rle(input) {
   }
   return str;
 }
+
+
+//test
+console.log(rle('BCCDDDEEEE'));
