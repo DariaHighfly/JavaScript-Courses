@@ -7,8 +7,8 @@ import Header from "../components/Header/Header";
 
 class ShoppingCart extends Component {
   render() {
-    return (
-      <div className='ShoppingCart'>
+    return(
+        <div className='ShoppingCart'>
         <Header/>
         <CartList
           cartList={this.props.cart}

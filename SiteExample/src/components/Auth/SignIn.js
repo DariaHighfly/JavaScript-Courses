@@ -31,7 +31,7 @@ export default class SignInComponent extends Component {
               <label htmlFor="password">Пароль</label><br/>
               <input className="signInInputField" type="password" id="password" onChange={this.handleChange}/>
             </div>
-              <a href="/home"><button className="signInButton">Войти</button></a>св
+              <a href="/home"><button className="signInButton">Войти</button></a>
           </form>
         </div>
       </div>

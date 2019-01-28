@@ -24,7 +24,7 @@ export default class SignOutComponent extends Component {
         <form onSubmit={this.handleSubmit} className="white">
           <h5 className="signInText"> Вы точно хотите выйти? </h5>
           <div>
-            <a href="/home"><button className="signInButton">Выйти</button></a>
+            <a href="/"><button className="signInButton">Выйти</button></a>
           </div>
         </form>
       </div>
