@@ -15,14 +15,6 @@
       <change afterPath="$PROJECT_DIR$/Task2/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Task2/Ticker.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/airport" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/npm-debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Run.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airport" beforeDir="false" afterPath="$PROJECT_DIR$/airport" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airport/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/airport/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airport/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/airport/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airport/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/airport/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airport/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Task2/Ticker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -159,12 +151,12 @@
       <workItem from="1549126887709" duration="586000" />
       <workItem from="1549266634589" duration="3152000" />
       <workItem from="1549271038568" duration="767000" />
-      <workItem from="1549274132029" duration="548000" />
+      <workItem from="1549274132029" duration="1016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33455000" />
+    <option name="totallyTimeSpent" value="33923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
@@ -204,8 +196,8 @@
     <entry file="file://$PROJECT_DIR$/airport/src/App.css" />
     <entry file="file://$PROJECT_DIR$/Task2/Ticker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
