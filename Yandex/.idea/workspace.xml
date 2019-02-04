@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575bedd8-f2d5-4525-bf30-6424901a773d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Yandex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/Ticker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airport" afterDir="false" />
-    </list>
+    <list default="true" id="575bedd8-f2d5-4525-bf30-6424901a773d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -151,12 +137,12 @@
       <workItem from="1549126887709" duration="586000" />
       <workItem from="1549266634589" duration="3152000" />
       <workItem from="1549271038568" duration="767000" />
-      <workItem from="1549274132029" duration="1016000" />
+      <workItem from="1549274132029" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33923000" />
+    <option name="totallyTimeSpent" value="34552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
