@@ -33,7 +33,7 @@ emitter
 assert.equal(notifications.counter, 1, 'Получена одна нотификация');
 
 // В логе сохранено событие
-// Так как обработчик notifications.count отработал первым,
+// Так как обработчик notifications.counter отработал первым,
 //  в логах сохранено правильное количество нотификаций
 
 assert.deepEqual(logger.logs, [
