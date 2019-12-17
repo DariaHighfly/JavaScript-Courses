@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../components/Goods/Goods.css'
+import '../Goods/Goods.css'
 
 
 let ProductList = function ({products, handleAddToCartClick, imageBaseURL}) {
