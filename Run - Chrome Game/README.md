@@ -20,5 +20,5 @@
 
 ###  Скриншоты
 
-<img src="https://github.com/DariaHighfly/JavaScript-Courses/tree/master/Run%20-%20Chrome%20Game/blob/master/game_image_1.png" width="100%" height="100%">
-<img src="https://github.com/DariaHighfly/JavaScript-Courses/tree/master/Run%20-%20Chrome%20Game/blob/master/game_image_2.png" width="100%" height="100%">
+<img src="https://github.com/DariaHighfly/JavaScript-Courses/blob/master/Run%20-%20Chrome%20Game/game_image_1.png" width="100%" height="100%">
+<img src="https://github.com/DariaHighfly/JavaScript-Courses/blob/master/Run%20-%20Chrome%20Game/game_image_2.png" width="100%" height="100%">
